@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Henrich - aka h3nr1ch
+<h1 align="center">Hi, I'm Henrich - aka h3nr1ch</h1>
+<h3 align="center">I'm Front-End Developer from Brazil</h3>
+<p align="center">Email: </p>
 
-## I'm Front-End Developer.
-
-### 🛠️ Tools:
-
-
-
+<div>
+  <h3>🛠️ Tools:</h3>
+  <img src="https://github.com/h3nr1ch/h3nr1ch/blob/main/images/html5icon.png" alt="HTML5 Icon" height="30px">
+  <img src="https://github.com/h3nr1ch/h3nr1ch/blob/main/images/cssicon.png" alt="CSS Icon" height="30px">
+  <img src="https://github.com/h3nr1ch/h3nr1ch/blob/main/images/javascripticon.png" alt="JavaScript Icon" height="30px">
+</div>
