@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi, I'm Henrich - aka h3nr1ch
+
+## I'm Front-End Developer.
+
+### 🛠️ Tools:
 
 
-![GitHub followers](https://img.shields.io/github/followers/h3nr1ch?color=black&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/h3nr1ch?color=black&style=for-the-badge)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2eV008H4cFNUXpLCemEqdQ?color=black&style=for-the-badge)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC2eV008H4cFNUXpLCemEqdQ?color=black&style=for-the-badge)
 
-![h3nr1ch's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3nr1ch&show_icons=true&count_private=true&bg_color=555555&title_color=ffffff&text_color=ffffff&icon_color=000000&border_color=000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h3nr1ch&layout=compact&bg_color=555555&title_color=ffffff&text_color=ffffff&icon_color=000000&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
