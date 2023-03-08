@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 </div>
 
 <br />
-<br />
 
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api?username=h3nr1ch&amp;show_icons=true&amp;count_private=true&amp;bg_color=555555&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=000000&amp;border_color=000000" alt="h3nr1ch&#39;s GitHub stats"></p>
