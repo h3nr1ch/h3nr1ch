@@ -28,12 +28,15 @@ Here are some ideas to get you started:
   <img src="https://github.com/h3nr1ch/h3nr1ch/blob/main/images/javascripticon.png" alt="JavaScript Icon" height="30px">&nbsp;&nbsp;&nbsp;
 </div>
 
-<br />
+<br>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api?username=h3nr1ch&amp;show_icons=true&amp;count_private=true&amp;bg_color=555555&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=000000&amp;border_color=000000" alt="h3nr1ch&#39;s GitHub stats"></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=h3nr1ch&amp;show_icons=true&amp;count_private=true&amp;bg_color=555555&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=000000&amp;border_color=000000" alt="h3nr1ch&#39;s GitHub stats">
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/h3nr1ch?color=black&amp;style=for-the-badge" alt="GitHub followers">
+  <img src="https://komarev.com/ghpvc/?username=h3nr1ch&amp;color=000000&amp;style=for-the-badge" alt="Github profile visitors">
 </div>
