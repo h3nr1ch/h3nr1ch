@@ -1,16 +1,7 @@
 <!--
-**h3nr1ch/h3nr1ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Thanks for the README stats: 
+https://github.com/anuraghazra/github-readme-stats
+https://shields.io/
 -->
 
 <h1 align="center">Hi, I'm Henrich - aka h3nr1ch</h1>
@@ -18,7 +9,7 @@ Here are some ideas to get you started:
 <p align="center">Email: contato@h3nr1ch.dev</p>
 
 <div>
-  <p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3nr1ch&amp;layout=compact&amp;bg_color=555555&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=000000&amp;border_color=000000" alt="Top Langs"></a></p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3nr1ch&amp;layout=compact&amp;bg_color=555555&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=000000&amp;border_color=000000" alt="Top Langs"></a>
 </div>
 
 <div align="left">
@@ -51,7 +42,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3>Playground</h3>
-  <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=h3nr1ch&amp;repo=vanilla-projects&bg_color=555555&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=000000&amp;border_color=000000" alt="Readme Card"></a></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/pin/?username=h3nr1ch&amp;repo=vanilla-projects&bg_color=555555&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=000000&amp;border_color=000000" alt="Readme Card"></p>
 </div>
   
 <hr>
