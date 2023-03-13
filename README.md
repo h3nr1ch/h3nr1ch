@@ -42,7 +42,9 @@ https://shields.io/
 
 <div align="center">
   <h3>Playground</h3>
-  <p><img src="https://github-readme-stats.vercel.app/api/pin/?username=h3nr1ch&amp;repo=vanilla-projects&bg_color=555555&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=000000&amp;border_color=000000" alt="Readme Card"></p>
+  <p>
+    <a href="https://github.com/h3nr1ch/vanilla-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=h3nr1ch&amp;repo=vanilla-projects&bg_color=555555&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=000000&amp;border_color=000000" alt="Readme Card"></a>
+  </p>
 </div>
   
 <hr>
