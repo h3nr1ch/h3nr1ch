@@ -38,5 +38,20 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/h3nr1ch?color=black&amp;style=for-the-badge" alt="GitHub followers">
-  <img src="https://komarev.com/ghpvc/?username=h3nr1ch&amp;color=000000&amp;style=for-the-badge" alt="Github profile visitors">
+  
+</div>
+
+<hr>
+
+<h3>Latest YouTube Vídeos</h3>
+<div align="center">
+  <a style="margin-right: 30px;" href="https://www.youtube.com/watch?v=wqJZFIsUN_A"><img src="http://img.youtube.com/vi/wqJZFIsUN_A/hqdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC2eV008H4cFNUXpLCemEqdQ?color=black&amp;style=for-the-badge" alt="YouTube Channel Subscribers">
+  <img src="https://img.shields.io/youtube/channel/views/UC2eV008H4cFNUXpLCemEqdQ?color=black&amp;style=for-the-badge" alt="YouTube Channel Views">
 </div>
