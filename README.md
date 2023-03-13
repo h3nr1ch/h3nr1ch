@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Henrich - aka h3nr1ch</h1>
 <h3 align="center">I'm Front-End Developer from Brazil</h3>
-<p align="center">Email: </p>
+<p align="center">Email: contato@h3nr1ch.dev</p>
 
 <div>
   <p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3nr1ch&amp;layout=compact&amp;bg_color=555555&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=000000&amp;border_color=000000" alt="Top Langs"></a></p>
@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 
 <br>
 
+<br>
+
+<br>
+
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=h3nr1ch&amp;show_icons=true&amp;count_private=true&amp;bg_color=555555&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=000000&amp;border_color=000000" alt="h3nr1ch&#39;s GitHub stats">
 </div>
@@ -38,12 +44,19 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/h3nr1ch?color=black&amp;style=for-the-badge" alt="GitHub followers">
-  
+  <img src="https://komarev.com/ghpvc/?username=h3nr1ch&amp;color=000000&amp;style=for-the-badge" alt="Github profile visitors">
 </div>
 
+<br>
+
+<div align="center">
+  <h3>Playground</h3>
+  <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=h3nr1ch&amp;repo=vanilla-projects&bg_color=555555&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=000000&amp;border_color=000000" alt="Readme Card"></a></p>
+</div>
+  
 <hr>
 
-<h3>Latest YouTube Vídeos</h3>
+<h3 align="center">Latest YouTube Vídeos</h3>
 <div align="center">
   <a style="margin-right: 30px;" href="https://www.youtube.com/watch?v=wqJZFIsUN_A"><img src="http://img.youtube.com/vi/wqJZFIsUN_A/hqdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" /></a>
